@@ -342,68 +342,6 @@ game_logic = {
 gamegrid = GameGrid(game_logic)
 
 
-#################
-# Optional Task #
-#################
-
-###########
-# Task 5i #
-###########
-
-def make_new_record(mat, increment):
-    "Your answer here"
-
-def get_record_matrix(record):
-    "Your answer here"
-
-def get_record_increment(record):
-    "Your answer here"
-
-############
-# Task 5ii #
-############
-
-def make_new_records():
-    "Your answer here"
-
-def push_record(new_record, stack_of_records):
-    "Your answer here"
-
-def is_empty(stack_of_records):
-    "Your answer here"
-
-def pop_record(stack_of_records):
-    "Your answer here"
-
-#############
-# Task 5iii #
-#############
-
-# COPY AND UPDATE YOUR FUNCTIONS HERE
-def make_state(matrix, total_score, records):
-    "Your answer here"
-
-def get_matrix(state):
-    "Your answer here"
-
-def get_score(state):
-    "Your answer here"
-
-def make_new_game(n):
-    "Your answer here"
-
-def left(state):
-    "Your answer here"
-
-def right(state):
-    "Your answer here"
-
-def up(state):
-    "Your answer here"
-
-def down(state):
-    "Your answer here"
-
 # NEW FUNCTIONS TO DEFINE
 def get_records(state):
     "Your answer here"
